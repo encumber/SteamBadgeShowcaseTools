@@ -64,9 +64,10 @@ style.textContent = `
     overflow: hidden;
     position: relative;
     max-height: 100%; /* Restricts badges to fit within the modal */
-	left: 50px !important;
+    left: 50px !important;
     right: 40px !important;
-	bottom: 40px !important;
+    top: 30px !important;
+    bottom: 40px !important;
   }
 `;
 document.head.appendChild(style);

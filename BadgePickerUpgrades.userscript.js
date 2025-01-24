@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Badge Picker Upgrades
-// @namespace    https://raw.githubusercontent.com/encumber/SteamBadgeShowcaseTools/refs/heads/main/BadgePickerUpgrades.userscript.js
+// @namespace    https://github.com/encumber/SteamBadgeShowcaseTools/blob/main/BadgePickerUpgrades.userscript.js
 // @version      1.0
 // @description  removes the names of each of the badges and turns it into a neat array of columns to allow for you to be able to view more at once, useful for people with more badges
 // @author       Nitoned

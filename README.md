@@ -1,9 +1,11 @@
 # Features
 - [x] Adds Search Bar to Badge showcase
 - [X] Makes Badge Showcase a proper array instead of being many rows
-- [ ] Add similar functionality to the Achievement Showcase and the Group Showcase
-- [ ] Fix issue with the Review showcase
+- [X] Add similar functionality to the Group Showcase
+- [ ] Add similar functionality to the Achievement Showcase (added starter code, going to work on it more later)
+- [X] Fix issue with the Review showcase
 - [ ] More customization
+- [ ] Fix bug where search and hover only works on the group showcase after closing and opening again
 
 ## Contact
 feel free to add me on discord io7 or add me on [Steam](https://steamcommunity.com/id/client)

@@ -1,11 +1,4 @@
-# Features
-- [x] Adds Search Bar to Badge showcase
-- [X] Makes Badge Showcase a proper array instead of being many rows
-- [X] Add similar functionality to the Group Showcase
-- [ ] Add similar functionality to the Achievement Showcase (added starter code, going to work on it more later)
-- [X] Fix issue with the Review showcase
-- [ ] More customization
-- [ ] Fix bug where search and hover only works on the group showcase after closing and opening again
+this version is knowingly buggy, I have 2 jobs and have to get to sleep, it upon loading the badge viewer will try to load the tags automatically but will hit a ratelimit due to an issue, it will have to be manually triggered after it errors before you can get the tags, it has caching but isn't using the cached data as of now because its wanting to fight me, I will work on this when i have the time, until then it will be in its own branch
 
 ## Contact
 feel free to add me on discord io7 or add me on [Steam](https://steamcommunity.com/id/client)
